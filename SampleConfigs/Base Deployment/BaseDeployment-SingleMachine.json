@@ -3,7 +3,8 @@
                      {
                          "NodeName":  "[Machine Name]",
                          "DataStoreTypes":  [ 
-                                              "Relational"
+                                              "Relational",
+                                              "TileCache"  
                                             ],
                          "Role":  [
                                     "Server",
